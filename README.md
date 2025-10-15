@@ -13,3 +13,9 @@ To define and share your own convention:
 
 1. Create a new GitHub repository using the zarr-conventions/template repository
 2. TODO finish this
+
+## Discover conventions
+
+If you have published a Zarr convention, please add it to the list below:
+
+* UUID — website
