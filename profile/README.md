@@ -24,4 +24,4 @@ To define and share your own convention:
 
 If you have published a Zarr convention, please [add it to the list below](https://github.com/zarr-conventions/.github/edit/main/profile/README.md):
 
-* UUID — website
+* f17cb550-5864-4468-aeb7-f3180cfb622f — [https://github.com/zarr-experimental/geo-proj](https://github.com/zarr-experimental/geo-proj)
