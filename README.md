@@ -13,8 +13,8 @@ To define and share your own convention:
 
 1. [Create a new GitHub repository using the zarr-conventions template](https://github.com/new?template_name=template&template_owner=zarr-conventions)
 1. Create a new UUID to use as a globally-unique identifier for your convention. 
-1. Edit the README.md document to describe your usage convention for developers and users.
-1. Optionally, edit the schema.json file to define validation constraints on your metadata.
+1. Edit the README.md document in your GitHub repo to describe your usage convention for developers and users.
+1. Optionally, edit the schema.json file in your GitHub repo to define validation constraints on your metadata.
 1. Commit your changes and make a GitHub release so you have a stable version of your spec and schema to point to.
 1. Share your convention (see below).
 
