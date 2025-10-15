@@ -16,6 +16,6 @@ To define and share your own convention:
 
 ## Share your convention
 
-If you have published a Zarr convention, please add it to the list below:
+If you have published a Zarr convention, please [add it to the list below](https://github.com/zarr-conventions/.github/edit/main/README.md):
 
 * UUID — website
