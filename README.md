@@ -11,7 +11,7 @@ For example, a Zarr Convention can define a set of attributes for storing specif
 
 To define and share your own convention:
 
-1. Create a new GitHub repository using the zarr-conventions/template repository
+1. [Create a new GitHub repository using the zarr-conventions template](https://github.com/new?template_name=template&template_owner=zarr-conventions)
 2. TODO finish this
 
 ## Share your convention
