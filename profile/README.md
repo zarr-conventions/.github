@@ -1,5 +1,7 @@
 # Zarr Conventions
 
+**EXPERIMENTAL: This org and the repos it contains are experimental and feedback is welcome.**
+
 This organisation contains documentation and tooling to help define and share Zarr Conventions.
 
 ## What is a Zarr Convention?
