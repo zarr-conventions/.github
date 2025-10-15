@@ -1,6 +1,6 @@
 # Zarr Conventions
 
-**EXPERIMENTAL: This org and the repos it contains are experimental and feedback is welcome.**
+**EXPERIMENTAL: This org and the repos it contains are a work in progress and feedback is welcome.**
 
 This organisation contains documentation and tooling to help define and share Zarr Conventions.
 
