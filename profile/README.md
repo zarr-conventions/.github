@@ -1,12 +1,12 @@
-# Zarr Conventions
+# Zarr Adoption Conventions
 
 **EXPERIMENTAL: This org and the repos it contains are a work in progress and feedback is welcome.**
 
-This organisation contains documentation and tooling to help define and share Zarr Conventions.
+This organisation contains documentation and tooling to help define and share Zarr Adoption Conventions.
 
-## What is a Zarr Convention?
+## What is a Zarr Adoption Convention?
 
-A Zarr Convention is simply a way of using Zarr to store data for a particular domain, application or purpose.
+A Zarr Adoption Convention (Zarr convention, for short) is simply a way of using Zarr to store data for a particular domain, application or purpose.
 For example, a Zarr Convention can define a set of attributes for storing specific metadata that helps downstream applications provide special behaviour and users interpret the data.
 
 ## Define your own convention
