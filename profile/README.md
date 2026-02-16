@@ -50,3 +50,4 @@ If you have published a Zarr convention, please [add it to the table below](http
 | multiscales | Multiscale layout of zarr datasets | d35379db-88df-4056-af3a-620245f8e347 | <https://github.com/zarr-conventions/multiscales> |
 | license | License specifier for Zarr data | b77365e5-2b0c-4141-b917-c03b7c68e935 | <https://github.com/clbarnes/zarr-convention-license> |
 | uom | Units of measurement for Zarr arrays | 3bbe438d-df37-49fe-8e2b-739296d46dfb | <https://github.com/clbarnes/zarr-convention-uom> |
+| ref | Referencing external objects from a Zarr array or group | d89b30cf-ed8c-43d5-9a16-b492f0cd8786 | <https://github.com/R-CF/zarr_convention_ref> |
