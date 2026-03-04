@@ -51,3 +51,4 @@ If you have published a Zarr convention, please [add it to the table below](http
 | license | License specifier for Zarr data | b77365e5-2b0c-4141-b917-c03b7c68e935 | <https://github.com/clbarnes/zarr-convention-license> |
 | uom | Units of measurement for Zarr arrays | 3bbe438d-df37-49fe-8e2b-739296d46dfb | <https://github.com/clbarnes/zarr-convention-uom> |
 | ref | Referencing external objects from a Zarr array or group | d89b30cf-ed8c-43d5-9a16-b492f0cd8786 | <https://github.com/R-CF/zarr_convention_ref> |
+| nzug | NetCDF - Zarr Users Guide | d0a980b5-c644-4dcc-85a1-283799a58f40 | <https://github.com/zarr-conventions/nzug> |
