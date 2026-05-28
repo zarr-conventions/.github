@@ -54,3 +54,5 @@ If you have published a Zarr convention, please [add it to the table below](http
 | nz | NetCDF - Zarr Convention | d0a980b5-c644-4dcc-85a1-283799a58f40 | <https://github.com/zarr-conventions/nz> |
 | geolocation | Convention for storing geolocation arrays | bb9ee930-8c60-4c47-ad6b-8daa558987ed | <https://github.com/R-CF/zarr_convention_geolocation> |
 | cs | Coordinate set for n-dimensional arrays | e4dbf0b7-7a00-4ce6-b23e-484292014ab4 | <https://github.com/R-CF/zarr_conventions_cs> |
+| coords | Index-to-coordinate mapping |  6ca4454a-658a-4348-a667-b39ced0e58cb | < https://github.com/christophenoel/zarr-coords> |
+
