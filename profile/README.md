@@ -55,4 +55,5 @@ If you have published a Zarr convention, please [add it to the table below](http
 | geolocation | Convention for storing geolocation arrays | bb9ee930-8c60-4c47-ad6b-8daa558987ed | <https://github.com/R-CF/zarr_convention_geolocation> |
 | cs | Coordinate set for n-dimensional arrays | e4dbf0b7-7a00-4ce6-b23e-484292014ab4 | <https://github.com/R-CF/zarr_conventions_cs> |
 | coords | Index-to-coordinate mapping |  6ca4454a-658a-4348-a667-b39ced0e58cb | < https://github.com/christophenoel/zarr-coords> |
+| cf | CF semantic metadata |  0c0a02d2-8a95-4303-8b62-16a50b439d74 | < https://github.com/christophenoel/zarr-cf> |
 
