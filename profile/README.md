@@ -56,4 +56,6 @@ If you have published a Zarr convention, please [add it to the table below](http
 | cs | Coordinate set for n-dimensional arrays | e4dbf0b7-7a00-4ce6-b23e-484292014ab4 | <https://github.com/R-CF/zarr_conventions_cs> |
 | coords | Index-to-coordinate mapping |  6ca4454a-658a-4348-a667-b39ced0e58cb | < https://github.com/christophenoel/zarr-coords> |
 | cf | CF semantic metadata |  0c0a02d2-8a95-4303-8b62-16a50b439d74 | < https://github.com/christophenoel/zarr-cf> |
+| coords | Index-to-coordinate mapping |  6ca4454a-658a-4348-a667-b39ced0e58cb | <https://github.com/christophenoel/zarr-coords> |
+| dggs | Discrete Global Grid Systems | 7b255807-140c-42ca-97f6-7a1cfecdbc38 | <https://github.com/zarr-conventions/dggs> |
 
